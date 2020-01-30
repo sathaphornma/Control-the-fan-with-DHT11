@@ -4,10 +4,10 @@
 #include <DHT.h>
 
 
-char auth[] = "2lqNDWu5z7pDYW94Y3mGGfrQiMImadTU";
+char auth[] = "token";
 
-char ssid[] = "wiwat";
-char pass[] = "0840377915";
+char ssid[] = "ssid";
+char pass[] = "password";
 
 
 #define DHTPIN 2       //NODE MCU PIN D4
